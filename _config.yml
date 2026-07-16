@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Hi! I'm Savanah 🌳"
 title_separator          : "-"
 name                     : &name "Savanah"
@@ -26,7 +26,7 @@ author:
   avatar           : "savanah_trees.png"
   name             : "Savanah"
   pronouns         : "she/her"  
-  bio              : "Forest Engineer from Manaus, Master's degree student in Remote Sensing at the National Institute for Space Research (INPE). Acts as a researcher at the TRopical Ecosystems and Environmental Sciences Lab (TREES), investigating the resilience of secondary Amazonian forests subjected to extreme droughts through the Amazon-SOS: A Safe Operating Space for Amazonian Forests project."
+  bio              : "Remote Sensing | Tropical forests | Amazon | Secondary Forests | Resilience | Ecology"
   location         : "São José dos Campos"
   employer         : "INPE"
   uri              : # URL
