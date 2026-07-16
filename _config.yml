@@ -26,7 +26,7 @@ author:
   avatar           : "savanah_trees.png"
   name             : "Savanah"
   pronouns         : "she/her"  
-  bio              : "Forest Engineer graduated from the Federal University of Amazonas, currently pursuing a Master's degree in Remote Sensing at the National Institute for Space Research (INPE). Acts as a researcher at the TRopical Ecosystems and Environmental Sciences Lab (TREES), investigating the resilience of secondary Amazonian forests subjected to extreme droughts through the Amazon-SOS: A Safe Operating Space for Amazonian Forests project."
+  bio              : "Forest Engineer from Manaus, Master's degree student in Remote Sensing at the National Institute for Space Research (INPE). Acts as a researcher at the TRopical Ecosystems and Environmental Sciences Lab (TREES), investigating the resilience of secondary Amazonian forests subjected to extreme droughts through the Amazon-SOS: A Safe Operating Space for Amazonian Forests project."
   location         : "São José dos Campos"
   employer         : "INPE"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "savuimdecoleira"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
